@@ -1,0 +1,8 @@
+Să se creeze o pagină web simplă pentru un eveniment fictiv. Pagina ar trebui să includă următoarele elemente:
+Antetul paginii web ar trebui să conțină un titlu pentru eveniment, o imagine reprezentativă și o listă de link-uri către paginile de social media ale evenimentului.
+Corpul paginii ar trebui să includă următoarele elemente:
+    - O secțiune de prezentare pentru eveniment, care să includă o imagine și o descriere.
+    - O secțiune care să prezinte programul evenimentului, cu orele de început și final, numele prezentatorilor și titlurile discursurilor.
+    - O secțiune cu detalii despre locație, care să includă o hartă, adresa și instrucțiuni pentru acces.
+    - Un formular de înregistrare pentru eveniment, care să includă câmpuri pentru nume, adresă de e-mail și număr de telefon.
+Pagina ar trebui să respecte standardele HTML și să fie validată prin intermediul unor instrumente precum W3C Validator.
